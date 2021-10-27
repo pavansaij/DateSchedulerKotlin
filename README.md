@@ -1,4 +1,4 @@
-# Sample Kotling Application
+# Sample Kotlin Application
 
 ### Testing
 
