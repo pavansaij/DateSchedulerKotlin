@@ -1,4 +1,4 @@
-# Wolt Coding Task
+# Sample Kotling Application
 
 ### Testing
 
